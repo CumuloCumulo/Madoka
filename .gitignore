@@ -1,0 +1,32 @@
+# 依赖
+node_modules/
+package-lock.json
+
+# 构建输出
+dist/
+*.log
+*.tsbuildinfo
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+.cache/
+
+# 环境变量
+.env
+.env.local
+
+# Chrome Extension 开发
+*.pem
+*.crx
